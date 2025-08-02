@@ -18,3 +18,7 @@ HTML – Structure of the calculator
 CSS – Styling and responsive layout
 
 JavaScript – Functional logic and interactivity
+## ✨ Live Demo
+
+[🌐 Live Demo](https://sprightly-tanuki-ee511d.netlify.app)
+
