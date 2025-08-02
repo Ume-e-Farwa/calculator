@@ -1,22 +1,20 @@
-# calculator
-Calculator App
-A simple and responsive calculator built using HTML, CSS, and JavaScript.
-It performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
+📱 Calculator App
+A simple, responsive, and user-friendly calculator built using HTML, CSS, and JavaScript. This app performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
 
-Technologies Used
-HTML (for structure)
+🚀 Features
+✅ Clean and minimal UI
 
-CSS (for styling)
+📱 Fully responsive (mobile and desktop)
 
-JavaScript (for functionality)
+⌨️ Keyboard input support
 
- Features
-User-friendly interface
+🧮 Supports decimals, clear, and delete operations
 
-Responsive design (works on mobile and desktop)
+⚙️ Real-time calculations
 
-Supports keyboard input
+🛠️ Technologies Used
+HTML – Structure of the calculator
 
-Clear, delete, and decimal support
+CSS – Styling and responsive layout
 
-Clean and minimal design
+JavaScript – Functional logic and interactivity
