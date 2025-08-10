@@ -1,5 +1,5 @@
 📱 Calculator App
-A simple, responsive, and user-friendly calculator built using HTML, CSS, and JavaScript. This app performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
+A simple, responsive, and user-friendly calculator built using HTML,CSS,and JavaScript. This app performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
 
 🚀 Features
 ✅ Clean and minimal UI
